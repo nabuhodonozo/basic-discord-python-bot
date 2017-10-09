@@ -61,4 +61,4 @@ async def join(ctx):
     else:
         queue.append(user)
         await bot.say(queue)
-bot.run('MzU0NjMzMDg1OTUxNjcyMzIx.DJMz-Q.Icesaj3p_Wqm5yFv3tRXH55sdz8')
+bot.run('')
