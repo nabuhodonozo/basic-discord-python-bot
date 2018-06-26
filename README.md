@@ -6,18 +6,17 @@ Bot is working on my gaming server where I play only with my friends.
 
 #Features:
 
-Adding numbers
-Help command
-Promoting members
-Queue (for gaming) //in beta phase
-deleting msgs in bulk
+* Adding numbers
+* Help command
+* Promoting members
+* deleting messages from channel
 
 
-
-#To do:
-Queue
-reminders
-time based bans/mutes
+## Test.py
+* Event announcment
+* Abiltiy to queue members
+* reminders
+* time based bans/mutes
 
 
 
