@@ -12,7 +12,7 @@ async def on_ready():
     print(bot.user.name)
     print(bot.user.id)
     print('------')
-    await bot.send_message(bot.get_channel('366519745790345217'), 'Wbijam do kanau (:')
+    await bot.send_message(bot.get_channel('366519745790345217'), 'Logged on (:')
 
 
 @bot.command()
@@ -32,7 +32,7 @@ async def clear(ctx, num):
         await bot.delete_messages(mgs)
     else:
 	#add !clear "nickname" czysci wszystkie wiad danego uzytkownika
-        await bot.say('Jestem jebanym debilem i nic nie rozumiem')
+        await bot.say('I cant do that')
 
 @bot.command(pass_context = True)
 async def hlep(ctx):
