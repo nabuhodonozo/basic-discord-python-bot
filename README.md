@@ -2,6 +2,7 @@
 In my free time I am developing python bot for learning purposes.
 Bot is working on my gaming server where I play with my friends.
 
+THIS PROJECT WAS DISCONTINUED, DUE TO SWITCH TO PRIVATE REPO JAVA BOT. After this time discord.py has drastically changed and this code might not work.
 
 Features:
 
@@ -19,9 +20,9 @@ Features:
 
 
 
-#Requirements
+# Requirements
 
-https://github.com/Rapptz/discord.py
-python3
-discord application
-discord server 
+* https://github.com/Rapptz/discord.py
+* python3
+* discord application
+* discord server
